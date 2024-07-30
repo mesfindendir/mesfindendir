@@ -1,3 +1,10 @@
+< / >   Plain Text
+Make it interactive
+
+1
+2
+# This file will print Hello, world!
+Print (‘Hello, world!’)
 - 👋 Hi, I’m @mesfindendir
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
